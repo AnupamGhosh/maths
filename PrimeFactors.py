@@ -1,6 +1,5 @@
 no = input()
-primefactors = []
-def factors(no):
+def primefactors(no):
     factor = 2
     while factor * factor <= no:
         if no % factor == 0:
@@ -12,4 +11,4 @@ def factors(no):
         factor += 1
     if no > 1:
         yield no, 1
-print [factor for factor in factors(no)]
+print [factor for factor in primefactors(no)]
