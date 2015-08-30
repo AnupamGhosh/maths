@@ -7,4 +7,4 @@ This package contains basic tasks in number theory
     *  A<sup>−n</sup> mod X = (A<sup>−1</sup> mod X)<sup>n</sup> mod X = (A<sup>φ(X)−1</sup> mod X)<sup>n</sup> mod X
     *  Gauss proves that a regular n-gon can be constructed with straightedge and compass if φ(n) is a power of 2
 * Lucas Theorem
-   * Finds <sup>n</sup>C<sub>r</sub> mod m, where m is prime & n > m. Complexity O(m log m + log<sub>m</sub> n)
+   * Finds <sup>n</sup>C<sub>r</sub> mod m, where m is prime & n > m. Complexity O(m + log<sub>m</sub> n * log m)
