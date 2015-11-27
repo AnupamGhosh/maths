@@ -13,8 +13,8 @@ This package contains basic tasks in number theory
 ##### Naive thoughts
 * a<sub>1</sub> + a<sub>2</sub> + ... = S. 
   <br/>max(Σa<sub>1</sub>a<sub>2</sub>..) is when a<sub>1</sub> = a<sub>2</sub> = ...
-  <br/> Problem: [SubdividedSlimes](https://community.topcoder.com/stat?c=problem_statement&pm=14059)
+  <br/> Problem: [Subdivided Slimes](https://community.topcoder.com/stat?c=problem_statement&pm=14059)
 * Area of a polygon by Pick's theorem <br>
-   A = B / 2 + I - 1
-   B: No. of boundary points
-   I: No. of internal points
+   A = B / 2 + I - 1 <br>
+   B: No. of boundary points     I: No. of internal points <br>
+   <br/> Problem: [Integral Points](https://www.hackerrank.com/contests/infinitum13/challenges/integral-points)
