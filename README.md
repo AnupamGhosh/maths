@@ -17,4 +17,4 @@ This package contains basic tasks in number theory
 * Area of a polygon by Pick's theorem <br>
    A = B / 2 + I - 1 <br>
    B: No. of boundary points     I: No. of internal points <br>
-   <br/> Problem: [Integral Points](https://www.hackerrank.com/contests/infinitum13/challenges/integral-points)
+   Problem: [Integral Points](https://www.hackerrank.com/contests/infinitum13/challenges/integral-points)
