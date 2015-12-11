@@ -8,6 +8,8 @@ This package contains basic tasks in number theory
     *  Gauss proves that a regular n-gon can be constructed with straightedge and compass if φ(n) is a power of 2
 * Lucas Theorem
    * Finds <sup>n</sup>C<sub>r</sub> mod m, where m is prime & n > m. Complexity O(m + log<sub>m</sub> n * log m)
+* [Exponentiation by Squaring](https://en.wikipedia.org/wiki/Exponentiation_by_squaring#Example_implementations)
+   * fast computation of large positive integer powers of a number in O(log N)
 
 ---
 ##### Naive thoughts
