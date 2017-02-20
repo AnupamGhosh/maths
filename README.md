@@ -6,6 +6,7 @@ This package contains basic tasks in number theory
 * Euler's totient function
     *  A<sup>−n</sup> mod X = (A<sup>−1</sup> mod X)<sup>n</sup> mod X = (A<sup>φ(X)−1</sup> mod X)<sup>n</sup> mod X
     *  Gauss proves that a regular n-gon can be constructed with straightedge and compass if φ(n) is a power of 2
+    * [summation of lcm & gcd](http://math.stackexchange.com/questions/761670/how-to-find-this-lcm-sum-function-textlcm1-n-textlcm2-n-cdots-t)
 * Lucas Theorem
    * Finds <sup>n</sup>C<sub>r</sub> mod m, where m is prime & n > m. Complexity O(m + log<sub>m</sub> n * log m)
 * [Exponentiation by Squaring](https://en.wikipedia.org/wiki/Exponentiation_by_squaring#Example_implementations)
@@ -20,3 +21,4 @@ This package contains basic tasks in number theory
    A = B / 2 + I - 1 <br>
    B: No. of boundary points     I: No. of internal points <br>
    Problem: [Integral Points](https://www.hackerrank.com/contests/infinitum13/challenges/integral-points)
+* repeated digit sum or [digital root of n](https://oeis.org/A010888) <code>n-9*floor((n-1)/9)</code>
