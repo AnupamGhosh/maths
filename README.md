@@ -22,3 +22,5 @@ This package contains basic tasks in number theory
    B: No. of boundary points     I: No. of internal points <br>
    Problem: [Integral Points](https://www.hackerrank.com/contests/infinitum13/challenges/integral-points)
 * repeated digit sum or [digital root of n](https://oeis.org/A010888) <code>n-9*floor((n-1)/9)</code>
+* min(Σ|X - a<sub>i</sub>|) = median of A.
+  <br>Problem: [Consecutive Snakes](https://www.codechef.com/problems/CONSESNK)
