@@ -4,8 +4,9 @@ This package contains basic tasks in number theory
 * All factors of a number
 * Sieve of Eratosthenes
 * Euler's totient function
-    *  A<sup>−n</sup> mod X = (A<sup>−1</sup> mod X)<sup>n</sup> mod X = (A<sup>φ(X)−1</sup> mod X)<sup>n</sup> mod X
-    *  Gauss proves that a regular n-gon can be constructed with straightedge and compass if φ(n) is a power of 2
+    * Number of natural numbers up to **n** which are coprime to **n**
+    * A<sup>−n</sup> mod X = (A<sup>−1</sup> mod X)<sup>n</sup> mod X = (A<sup>φ(X)−1</sup> mod X)<sup>n</sup> mod X
+    * Gauss proves that a regular n-gon can be constructed with straightedge and compass if φ(n) is a power of 2
     * [summation of lcm & gcd](http://math.stackexchange.com/questions/761670/how-to-find-this-lcm-sum-function-textlcm1-n-textlcm2-n-cdots-t)
 * Lucas Theorem
    * Finds <sup>n</sup>C<sub>r</sub> mod m, where m is prime & n > m. Complexity O(m + log<sub>m</sub> n * log m)
