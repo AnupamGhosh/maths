@@ -15,6 +15,9 @@ This package contains basic tasks in number theory
 
 ---
 ##### Naive thoughts
+* [Chicken McNugget Theorem](https://artofproblemsolving.com/wiki/index.php/Chicken_McNugget_Theorem)
+   <br>if <code>gcd(m, n) = 1</code> then all nos > <code>mn-m-n</code> can be written in the form <code>am + bn</code>
+   <br>Problem: [I Hate 1111](https://codeforces.com/contest/1526/problem/B)
 * a<sub>1</sub> + a<sub>2</sub> + ... = S. 
   <br/>max(Σa<sub>1</sub>a<sub>2</sub>..) is when a<sub>1</sub> = a<sub>2</sub> = ...
   <br/> Problem: [Subdivided Slimes](https://community.topcoder.com/stat?c=problem_statement&pm=14059)
